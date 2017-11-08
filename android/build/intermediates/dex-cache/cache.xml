@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_3ccb43b90704c749945361ae5fb75efede9a1ae7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_5c2c2844179634bc78979f8e936f00fe0eca1683.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_0befd299800f7638acb29fef2ba05482d6a2538d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_6c149a276d759d7725966c2e8bde0f1c657f83b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_27415e65f4bd54c457423009ed6d50bb4819ed26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_b993644251dc092ea103257a0115244c343d1751.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_59267af4d45a9b75a2c7fad4344126eab4d2d8d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.9.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b1c4132dd2d386a819199b7e738c4d6e60897670">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/org.altbeacon-android-beacon-library-2.9.2_93ac70fda756f714e3b508d1b8635eaefd7e20fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_a1fe17441c268c63b66c891578f3d20687de7bc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e28e8f6ec36097dcb34f64eadc5c0d1b90525040.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_14dc493dbb46acf8d05817368adca0678c46e470.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_c59ba472e7347c3526be18fd38172ff7a399498b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/Soft/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_2d3c04e604761a76dea38244905e203523e40e90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_0f974adf0a425019db8116c92c7ba0c75f8fae20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_0372b878a3141873d8e906ba68d1784b219d3dde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/exploded-aar/SlidingUpPanel/react-native-beacons-manager/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="432a9c548ad52c95438b48bf195fe96a31f76f8f">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/SlidingUpPanel-react-native-beacons-manager-unspecified_4581d94f7f7eb93ebad80f1b60bdfb1aabb5490c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_f7fca038db40d112abff7ff552925e559121633e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.5/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_37526b9b7cd2dd5fa94ac9207045f330da3acc4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_16c134e8a35744eacaf893ec477ad235125e5369.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_d665a2c49d5c3e2de82ccf7aba7546f0cabab3fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_cb220e5908d524f40148fe604dc6abff95cb86da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_eac84bc77d00851beac3e7fb225dbee066da4678.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/exploded-aar/SlidingUpPanel/react-native-linear-gradient/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1e8670091fe3886c492f311f87d4452f58e33547">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/SlidingUpPanel-react-native-linear-gradient-unspecified_23e3a3dfaa1182e55ddba617108218527157e226.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="610b957661a666d16b2cd4664c6bf4370226dfd2">
+        <dex dex="/home/slaventy/dev/things/SlidingUpPanel/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.49.5_eebc73c569b33a043adaf5cffe2e2b0738eb2443.jar" />
+    </item>
+
+</items>
